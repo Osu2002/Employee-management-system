@@ -1,0 +1,1 @@
+.nav .nav-item button.active{background-color:transparent;color:#ff4d6d!important}.nav .nav-item button.active:after{content:"";border-bottom:4px solid #ff4d6d;width:100%;position:absolute;left:0;bottom:-1px;border-radius:5px 5px 0 0}

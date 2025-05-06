@@ -1,0 +1,232 @@
+id,name,code,status
+1,Afghanistan,93,0
+2,Albania,355,0
+3,Algeria,213,0
+4,American Samoa,1,0
+5,Andorra,376,0
+6,Angola,244,0
+7,Anguilla,1,0
+8,Antigua and Barbuda,1,0
+9,Argentina,54,0
+10,Armenia,374,0
+11,Aruba,297,0
+12,Ascension,247,0
+13,Australia,61,0
+14,Austria,43,0
+15,Azerbaijan,994,0
+16,Bahamas,1,0
+17,Bahrain,973,0
+18,Bangladesh,880,0
+19,Barbados,1,0
+20,Belarus,375,0
+21,Belgium,32,0
+22,Belize,501,0
+23,Benin,229,0
+24,Bermuda,1,0
+25,Bhutan,975,0
+26,Bolivia,591,0
+27,Bosnia and Herzegovina,387,0
+28,Botswana,267,0
+29,Brazil,55,0
+30,British Virgin Islands,1,0
+31,Brunei,673,0
+32,Bulgaria,359,0
+33,Burkina Faso,226,0
+34,Burundi,257,0
+35,Cambodia,855,0
+36,Cameroon,237,0
+37,Canada,1,0
+38,Cape Verde,238,0
+39,Cayman Islands,1,0
+40,Central African Republic,236,0
+41,Chad,235,0
+42,Chile,56,0
+43,China,86,0
+44,Colombia,57,0
+45,Comoros,269,0
+46,Congo,242,0
+47,Cook Islands,682,0
+48,Costa Rica,506,0
+49,Croatia,385,0
+50,Cuba,53,0
+51,Cyprus,357,0
+52,Czech Republic,420,0
+53,Democratic Republic of Congo,243,0
+54,Denmark,45,0
+55,Diego Garcia,246,0
+56,Djibouti,253,0
+57,Dominica,1,0
+58,Dominican Republic,1,0
+59,East Timor,670,0
+60,Ecuador,593,0
+61,Egypt,20,0
+62,El Salvador,503,0
+63,Equatorial Guinea,240,0
+64,Eritrea,291,0
+65,Estonia,372,0
+66,Ethiopia,251,0
+67,Falkland (Malvinas) Islands,500,0
+68,Faroe Islands,298,0
+69,Fiji,679,0
+70,Finland,358,0
+71,France,33,0
+72,French Guiana,594,0
+73,French Polynesia,689,0
+74,Gabon,241,0
+75,Gambia,220,0
+76,Georgia,995,0
+77,Germany,49,0
+78,Ghana,233,0
+79,Gibraltar,350,0
+80,Greece,30,0
+81,Greenland,299,0
+82,Grenada,1,0
+83,Guadeloupe,590,0
+84,Guam,1,0
+85,Guatemala,502,0
+86,Guinea,224,0
+87,Guinea-Bissau,245,0
+88,Guyana,592,0
+89,Haiti,509,0
+90,Honduras,504,0
+91,Hong Kong,852,0
+92,Hungary,36,0
+93,Iceland,354,0
+94,India,91,0
+95,Indonesia,62,0
+96,Inmarsat Satellite,870,0
+97,Iran,98,0
+98,Iraq,964,0
+99,Ireland,353,0
+100,Israel,972,0
+101,Italy,39,0
+102,Ivory Coast,225,0
+103,Jamaica,1,0
+104,Japan,81,0
+105,Jordan,962,0
+106,Kazakhstan,7,0
+107,Kenya,254,0
+108,Kiribati,686,0
+109,Kuwait,965,0
+110,Kyrgyzstan,996,0
+111,Laos,856,0
+112,Latvia,371,0
+113,Lebanon,961,0
+114,Lesotho,266,0
+115,Liberia,231,0
+116,Libya,218,0
+117,Liechtenstein,423,0
+118,Lithuania,370,0
+119,Luxembourg,352,0
+120,Macau,853,0
+121,Macedonia,389,0
+122,Madagascar,261,0
+123,Malawi,265,0
+124,Malaysia,60,0
+125,Maldives,960,0
+126,Mali,223,0
+127,Malta,356,0
+128,Marshall Islands,692,0
+129,Martinique,596,0
+130,Mauritania,222,0
+131,Mauritius,230,0
+132,Mayotte,262,0
+133,Mexico,52,0
+134,Micronesia,691,0
+135,Moldova,373,0
+136,Monaco,377,0
+137,Mongolia,976,0
+138,Montenegro,382,0
+139,Montserrat,1,0
+140,Morocco,212,0
+141,Mozambique,258,0
+142,Myanmar,95,0
+143,Namibia,264,0
+144,Nauru,674,0
+145,Nepal,977,0
+146,Netherlands,31,0
+147,Netherlands Antilles,599,0
+148,New Caledonia,687,0
+149,New Zealand,64,0
+150,Nicaragua,505,0
+151,Niger,227,0
+152,Nigeria,234,0
+153,Niue,683,0
+154,Norfolk Island,6723,0
+155,North Korea,850,0
+156,Northern Marianas,1,0
+157,Norway,47,0
+158,Oman,968,0
+159,Pakistan,92,0
+160,Palau,680,0
+161,Panama,507,0
+162,Papua New Guinea,675,0
+163,Paraguay,595,0
+164,Peru,51,0
+165,Philippines,63,0
+166,Poland,48,0
+167,Portugal,351,0
+168,Puerto Rico,1,0
+169,Qatar,974,0
+170,Reunion,262,0
+171,Romania,40,0
+172,Russian Federation,7,0
+173,Rwanda,250,0
+174,Saint Helena,290,0
+175,Saint Kitts and Nevis,1,0
+176,Saint Lucia,1,0
+177,Saint Pierre and Miquelon,508,0
+178,Saint Vincent and the Grenadines,1,0
+179,Samoa,685,0
+180,San Marino,378,0
+181,Sao Tome and Principe,239,0
+182,Saudi Arabia,966,0
+183,Senegal,221,0
+184,Serbia,381,0
+185,Seychelles,248,0
+186,Sierra Leone,232,0
+187,Singapore,65,0
+188,Slovakia,421,0
+189,Slovenia,386,0
+190,Solomon Islands,677,0
+191,Somalia,252,0
+192,South Africa,27,0
+193,South Korea,82,0
+194,Spain,34,0
+195,Sri Lanka,94,1
+196,Sudan,249,0
+197,Suriname,597,0
+198,Swaziland,268,0
+199,Sweden,46,0
+200,Switzerland,41,0
+201,Syria,963,0
+202,Taiwan,886,0
+203,Tajikistan,992,0
+204,Tanzania,255,0
+205,Thailand,66,0
+206,Thuraya Satellite,882,0
+207,Togo,228,0
+208,Tokelau,690,0
+209,Tonga,676,0
+210,Trinidad and Tobago,1,0
+211,Tunisia,216,0
+212,Turkey,90,0
+213,Turkmenistan,993,0
+214,Turks and Caicos Islands,1,0
+215,Tuvalu,688,0
+216,Uganda,256,0
+217,Ukraine,380,0
+218,United Arab Emirates,971,0
+219,United Kingdom,44,0
+220,United States of America,1,0
+221,U.S. Virgin Islands,1,0
+222,Uruguay,598,0
+223,Uzbekistan,998,0
+224,Vanuatu,678,0
+225,Vatican City,379,0
+226,Venezuela,58,0
+227,Vietnam,84,0
+228,Wallis and Futuna,681,0
+229,Yemen,967,0
+230,Zambia,260,0
+231,Zimbabwe,263,0
